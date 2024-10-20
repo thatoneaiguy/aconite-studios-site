@@ -21,6 +21,6 @@ features:
   - title: Typlosid
     details: Look within...
   - title: Astray Archipelago
-    details: How enchanting?
+    details: How enchanting?a
 ---
 
